@@ -1,0 +1,17 @@
+END TO END ML PROJECT
+Set up project with Github
+1.Data Ingestion
+2.Data Transformation
+3.Model Trainer
+4.Model Evaluation
+5.Model Deployment
+
+CI/CD Pipelines-Github Actions
+Deployment-AWS
+
+AGENDA
+1.Setup Github Repository
+  a)new environment- using anaconda prompt,add README.md file,add .gitignore
+  b)setup.py
+  c)requirements.txt
+2. Create src folder and build the package
